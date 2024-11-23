@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-23T10:46:39 IST" name="Default suite" finished-at="2024-11-23T10:47:07 IST" duration-ms="28404">
+    <groups>
+    </groups>
+    <test started-at="2024-11-23T10:46:39 IST" name="Default test" finished-at="2024-11-23T10:47:07 IST" duration-ms="28404">
+      <class name="actionExample.AmazonWishList">
+        <test-method is-config="true" signature="launchApp()[pri:0, instance:actionExample.AmazonWishList@7d4f9aae]" started-at="2024-11-23T10:46:39 IST" name="launchApp" finished-at="2024-11-23T10:46:58 IST" duration-ms="18855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method signature="moveToWishList()[pri:0, instance:actionExample.AmazonWishList@7d4f9aae]" started-at="2024-11-23T10:46:58 IST" name="moveToWishList" finished-at="2024-11-23T10:47:00 IST" duration-ms="1581" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveToWishList -->
+        <test-method is-config="true" signature="closeApp()[pri:0, instance:actionExample.AmazonWishList@7d4f9aae]" started-at="2024-11-23T10:47:00 IST" name="closeApp" finished-at="2024-11-23T10:47:07 IST" duration-ms="7911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- actionExample.AmazonWishList -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
